@@ -1,0 +1,3 @@
+
+FAILED = "FAILED"
+PASSED = "PASSED"
