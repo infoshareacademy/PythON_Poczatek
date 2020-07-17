@@ -1,0 +1,9 @@
+class Config:
+
+    ADMINISTRATOR_EMAIL = "admin..."
+    SYSTEM_DOMAIN = "..."
+    DATABASE_URL = "..."
+
+    RANDOM_FINAL_GRADES_NUMBER = 5
+    MIN_RANDOM_GRADE = 1
+    MAX_RANDOM_GRADE = 6
