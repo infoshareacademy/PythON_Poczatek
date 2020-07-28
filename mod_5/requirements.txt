@@ -1,0 +1,7 @@
+certifi==2020.6.20
+chardet==3.0.4
+geographiclib==1.50
+geopy==2.0.0
+idna==2.10
+requests==2.24.0
+urllib3==1.25.9

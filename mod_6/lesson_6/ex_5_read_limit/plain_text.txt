@@ -1,0 +1,3 @@
+Cześć i czołem! :)
+W pliku takim jak ja można zapisać różne rzeczy ale wszystkie one będą w postaci tekstu.
+Z pewnością jest to przydatna forma przechowywania danych.

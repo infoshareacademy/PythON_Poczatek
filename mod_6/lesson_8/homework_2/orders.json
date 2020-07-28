@@ -1,0 +1,51 @@
+{
+    "orders": {
+        "M-L": [
+            {
+                "client_first_name": "M",
+                "client_last_name": "L",
+                "order_elements": [
+                    {
+                        "product": {
+                            "name": "Chleb",
+                            "category": "FOOD",
+                            "unit_price": 3.5,
+                            "identifier": 96
+                        },
+                        "quantity": 3
+                    }
+                ]
+            },
+            {
+                "client_first_name": "M",
+                "client_last_name": "L",
+                "order_elements": [
+                    {
+                        "product": {
+                            "name": "M\u0142otek",
+                            "category": "TOOLS",
+                            "unit_price": 35.0,
+                            "identifier": 6
+                        },
+                        "quantity": 2
+                    }
+                ]
+            },
+            {
+                "client_first_name": "M",
+                "client_last_name": "L",
+                "order_elements": [
+                    {
+                        "product": {
+                            "name": "Rower",
+                            "category": "OTHER",
+                            "unit_price": 2500.0,
+                            "identifier": 37
+                        },
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+import random
+
+from shop.errors import TemporaryOutOfStock, ProductNotAvailable
+from shop.product import Product, ProductCategory
+
+
+class AvailableProduct:
+
+    def __init__(self, quantity, name, category, unit_price=None, identifier=None):
+        if unit_price is None:
+            unit_price = random.randint(1, 100)
+        if identifier is None:
+            identifier = random.randint(1, 100)
+
+        self.quantity = quantity
+        self.product = Product(name=name, category=category, unit_price=unit_price, identifier=identifier)
+
+
+class Store:
+    AVAILABLE_PRODUCTS = [
+        AvailableProduct(quantity=2, name="Młotek", category=ProductCategory.TOOLS),
+        AvailableProduct(quantity=5, name="Chleb", category=ProductCategory.FOOD),
+        AvailableProduct(quantity=1, name="Kosiarka", category=ProductCategory.TOOLS),
+        AvailableProduct(quantity=1, name="Rower", category=ProductCategory.OTHER),
+    ]
+
+    @staticmethod
+    def reserve_product(product, quantity):
+        # TODO: Przeszukaj listę dostępnych produktów.
+        #  Jeżeli produkt, który zamawiamy jest na liście w odpowiedniej ilości zmniejsz jego ilość i zakończ funkcję
+        #  Jeżeli produktu nie ma na liście albo jest go za mało rzuć odpowiedni wyjątek
+        for available_product in Store.AVAILABLE_PRODUCTS:
+            if available_product.product == product:
+                pass

@@ -1,0 +1,15 @@
+--------------------
+Zamówienie złożone przez: M L
+O łącznej wartości: 153 PLN
+Zamówione produkty:
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 29 PLN/szt x 1
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 62 PLN/szt x 2
+
+--------------------
+--------------------
+Zamówienie złożone przez: M L
+O łącznej wartości: 17 PLN
+Zamówione produkty:
+	Nazwa: Kosiarka | Kategoria: Narzędzia | Cena: 17 PLN/szt x 1
+
+--------------------

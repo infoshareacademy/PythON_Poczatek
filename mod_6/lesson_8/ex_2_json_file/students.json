@@ -1,0 +1,274 @@
+{
+    "students": [
+        {
+            "first_name": "Kuba",
+            "last_name": "Wi\u015bniewski",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 6,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 3,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Ala",
+            "last_name": "Kowalska",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 3,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 2,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 5,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Kuba",
+            "last_name": "Szyma\u0144ski",
+            "promoted": false,
+            "final_grades": [
+                {
+                    "value": 3,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 6,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Kuba",
+            "last_name": "W\u00f3jcik",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 2,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 4,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 6,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Emil",
+            "last_name": "Wi\u015bniewski",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 5,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 5,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 3,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Emil",
+            "last_name": "Kami\u0144ski",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 1,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 2,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 3,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Miko\u0142aj",
+            "last_name": "Nowak",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 5,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 2,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Ola",
+            "last_name": "Nowak",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 4,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 1,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 5,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 4,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Karolina",
+            "last_name": "Kami\u0144ska",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 3,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 4,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 5,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 2,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 5,
+                    "subject": "Historia"
+                }
+            ]
+        },
+        {
+            "first_name": "Miko\u0142aj",
+            "last_name": "Lewandowski",
+            "promoted": true,
+            "final_grades": [
+                {
+                    "value": 1,
+                    "subject": "Matematyka"
+                },
+                {
+                    "value": 6,
+                    "subject": "Fizyka"
+                },
+                {
+                    "value": 3,
+                    "subject": "Biologia"
+                },
+                {
+                    "value": 1,
+                    "subject": "Chemia"
+                },
+                {
+                    "value": 6,
+                    "subject": "Historia"
+                }
+            ]
+        }
+    ]
+}

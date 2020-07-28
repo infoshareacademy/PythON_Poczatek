@@ -1,0 +1,3 @@
+
+class ElementsInOrderLimitError(Exception):
+    pass

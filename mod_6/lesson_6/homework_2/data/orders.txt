@@ -1,0 +1,14 @@
+--------------------
+Zamówienie złożone przez: M L
+O łącznej wartości: 89 PLN
+Zamówione produkty:
+	Nazwa: Rower | Kategoria: Inne | Cena: 89 PLN/szt x 1
+
+--------------------
+--------------------
+Zamówienie złożone przez: M L
+O łącznej wartości: 112 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 28 PLN/szt x 4
+
+--------------------
